@@ -1,0 +1,5 @@
+{
+  "name": "Roami",
+  "description": "A friendly personalized travel guide that identifies landmarks from photos and suggests nearby attractions based on your interests.",
+  "requestFramePermissions": ["geolocation"]
+}
